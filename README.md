@@ -52,5 +52,3 @@ This architecture is designed for scalability, low operational overhead, and cos
 - **AI/CV:** LLMs, YOLO Drowsiness Detection
 - **Architecture:** REST APIs, Serverless Computing
 
-## Notes
-This project is for educational and research purposes as part of a graduation project.
