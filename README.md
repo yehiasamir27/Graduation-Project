@@ -1,4 +1,4 @@
-# AI-Powered Mobile Chatbot (iOS) — Serverless Cloud Backend + Computer Vision Context
+# AI-Powered Mobile (iOS) — Serverless Cloud Backend + Computer Vision
 
 This graduation project is a smart mobile application that combines conversational AI, cloud computing, and computer vision to deliver a scalable and context-aware chatbot experience. Users can chat using text or voice, and the chatbot can enhance its replies using visual context from a computer vision module.
 
