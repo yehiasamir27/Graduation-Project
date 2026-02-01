@@ -3,8 +3,7 @@
 This graduation project is a smart mobile application that combines conversational AI, cloud computing, and computer vision to deliver a scalable and context-aware chatbot experience. Users can chat using text or voice, and the chatbot can enhance its replies using visual context from a computer vision module.
 
 ## Architecture
-
-![Architecture]<img width="611" height="669" alt="Screenshot 2026-02-01 153046" src="https://github.com/user-attachments/assets/3963584b-03f8-4382-9fd2-d39dbaed441f" />
+<img width="611" height="669" alt="Screenshot 2026-02-01 153046" src="https://github.com/user-attachments/assets/3963584b-03f8-4382-9fd2-d39dbaed441f" />
 
 
 The system follows a modular design:
